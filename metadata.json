@@ -1,0 +1,6 @@
+{
+  "name": "LGB ESTUDIO WEB",
+  "description": "Agencia de desarrollo web y diseño profesional. Páginas web a medida para negocios y profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
